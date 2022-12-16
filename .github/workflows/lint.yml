@@ -3,7 +3,7 @@ name: lint
 on:
   pull_request:
   push:
-    branches: [ master ]
+    branches: [master]
 
 env:
   NODE_VERSION: 14.x

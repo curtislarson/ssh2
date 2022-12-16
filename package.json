@@ -1,8 +1,8 @@
 {
-  "name": "ssh2",
+  "name": "@curtis.land/ssh2",
   "version": "1.11.0",
   "author": "Brian White <mscdex@mscdex.net>",
-  "description": "SSH2 client and server modules written in pure JavaScript for node.js",
+  "description": "A fork of the SSH2 client to make it more Deno compatible",
   "main": "./lib/index.js",
   "engines": {
     "node": ">=10.16.0"
